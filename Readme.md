@@ -8,7 +8,7 @@ Follow these steps to set up and run the application on your local system:
 
 1. Clone this repository:
     ```shell
-    git clone https://github.com/atul-007/zenskar.git
+    git clone https://github.com/sujal-wedev/zenskar.git
     ```
 
 2. Create a .env file in the root directory of the project and fill in the required environment variables:
